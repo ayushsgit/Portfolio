@@ -195,6 +195,7 @@ br4{
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 0px;
 }
 
 .footer_text{
